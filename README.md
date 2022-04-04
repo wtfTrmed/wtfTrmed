@@ -11,7 +11,7 @@ root@wtfTrmed: info -u wtfTrmed
 |👤・twitter@wtfTrmed 
 
 |📧・wtfTrmed@protonmail.com
-|❔・make softwares for educational purposes only
+|❔・make softwares for educational purposes only 💀
 
 root@wtfTrmed: cd /home/repositories
 root@wtfTrmed: ls
