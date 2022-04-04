@@ -20,6 +20,10 @@ root@wtfTrmed: ls
 |   ├──  Python
 │   └──  04.04.2022  
 |
+├── GitHub Pusher > ❌
+|   ├──  Python
+|   └──  04.04.2022
+|
 └── wtfTrmed.md
 
 
