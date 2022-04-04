@@ -1,16 +1,26 @@
-### Hi there 👋
+```md
+           __  __________                        __     
+ _      __/ /_/ __/_  __/________ ___  ___  ____/ /     
+| | /| / / __/ /_  / / / ___/ __ `__ \/ _ \/ __  /     
+| |/ |/ / /_/ __/ / / / /  / / / / / /  __/ /_/ /     
+|__/|__/\__/_/   /_/ /_/  /_/ /_/ /_/\___/\__,_/    
+                                                   
+root@wtfTrmed: info -u wtfTrmed
 
-<!--
-**wtfTrmed/wtfTrmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|👤・github@wtfTrmed
+|👤・twitter@wtfTrmed 
 
-Here are some ideas to get you started:
+|📧・wtfTrmed@protonmail.com
+|❔・make softwares for educational purposes only
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+root@wtfTrmed: cd /home/repositories
+root@wtfTrmed: ls
+
+├── DiscordCallCrasher
+|   ├──  Python
+│   └──  04.04.2022  
+|
+└── wtfTrmed.md
+
+
+
