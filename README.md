@@ -16,7 +16,7 @@ root@wtfTrmed: info -u wtfTrmed
 root@wtfTrmed: cd /home/repositories
 root@wtfTrmed: ls
 
-├── DiscordCallCrasher
+├── DiscordCallCrasher > ✔️
 |   ├──  Python
 │   └──  04.04.2022  
 |
