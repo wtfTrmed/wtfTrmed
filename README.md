@@ -24,7 +24,7 @@ root@wtfTrmed: ls
 |   ├──  Python
 |   └──  04.04.2022
 |
-├── Auto Dumper > ✔️
+├── Auto Bumper > ✔️
 |   ├──  Python
 |   └──  05.04.2022
 |
