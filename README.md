@@ -16,13 +16,17 @@ root@wtfTrmed: info -u wtfTrmed
 root@wtfTrmed: cd /home/repositories
 root@wtfTrmed: ls
 
-├── DiscordCallCrasher > ✔️
+├── Discord CallCrasher > ✔️
 |   ├──  Python
 │   └──  04.04.2022  
 |
 ├── GitHub Pusher > ✔️
 |   ├──  Python
 |   └──  04.04.2022
+|
+├── Auto Dumper > ✔️
+|   ├──  Python
+|   └──  05.04.2022
 |
 └── wtfTrmed.md
 
